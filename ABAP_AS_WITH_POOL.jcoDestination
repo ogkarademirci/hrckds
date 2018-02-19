@@ -1,0 +1,10 @@
+#for tests only !
+#Sat Feb 03 13:01:56 EET 2018
+jco.client.lang=en
+jco.client.passwd=x
+jco.client.sysnr=00
+jco.destination.pool_capacity=3
+jco.client.client=006
+jco.destination.peak_limit=10
+jco.client.user=okarademirci
+jco.client.ashost=x
